@@ -1,3 +1,3 @@
 # desenvolvimento-web
 
-edit 1: logo mais atualizo esse repositorio.
+repositorio devidamente atualizado com meu progresso atual de aprendizado e acompanhamento do curso.
