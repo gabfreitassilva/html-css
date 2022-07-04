@@ -1,5 +1,0 @@
-aula para mostar tags obsoletas e reforçar que o HTML atual é semântico
-
-quando quisermos alterar fonte, cor da fonte, do fundo da tela, coisas do gênero, iremos recorrer ao CSS e não mais para o HTML.
-
-usar HTML somente para montar a pagina, dispor seus conteudos e afins. para modificar, alterar letra, tamanho da fonte, animações, funcionalidades e demais funcoes do site, usaremos CSS para desing e JS para as interatividades e funcionalidades.

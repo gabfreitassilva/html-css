@@ -1,3 +1,0 @@
-Aulas e exercicios em HTML e também no final um pouco de CSS interno e externo.
-
-sobre o exrcicio "ex005" que não existe na pasta dos exercicios. Como é um exercicio para criar com seu repositorio e redes socias, eu optei por não fazer agora. Quem sae mais lá na frente eu volte e faça esse exercicio.
