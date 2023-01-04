@@ -4,9 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Vídeos com HTML5</title>
 </head>
 <body>
-    
+<!-- essa não é a melhor opção, pois a longo prazo e com muitos acessos acaba custando muito a largura de banda do cliente onde o vídeo está salvo -->
+    <h1>Inserindo vídeo hospedado localmente</h1>
+    <video width="400" controls autoplay>
+        <source src="midias/pexels-lachlan-ross-8775687.mp4" type="video/mp4">
+    </video>
+
+<!-- uma das maneiras recomendadas é hospedar o vídeo em algum serviço como YouTube ou algum servidor na nuvem e incorporar o vídeo na página -->
+    <h1>Inserindo vídeo do YouTube</h1>
+    <iframe width="400" height="315" src="https://www.youtube.com/embed/3nQNiWdeH2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </body>
 </html>
