@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        a:visited {
+            color: rgb(52, 83, 223);
+        }
+
+        a:hover {
+            color: rgb(3, 252, 78);
+            text-decoration: underline;
+        }
+
+        .especial::after {
+            content: '🤑';
+        }
+        
+        .especial::before {
+            content: '🤑';
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="https://google.com" target="_blank" class="especial">Google</a></li>
+        <li><a href="https://youtube.com" target="_blank">YouTube</a></li>
+        <li><a href="https://twitch.tv" target="_blank">Twitch</a></li>
+    </ul>
+</body>
+</html>
